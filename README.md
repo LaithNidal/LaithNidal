@@ -4,7 +4,8 @@
 ---
 
 - 🎯 I’m focused on advancing my career in **Data Analytics** and **Data Science**, currently preparing for the **Microsoft PL-300: Power BI Data Analyst certification**.  
-- 🧠 My GitHub showcases a range of **Machine Learning**, **Deep Learning**, **Computer Vision** and **Power BI** notebooks — including regression, classification, and data visualization projects as well as hands-on project exercises from the textbooks : **"The Crash Course in Python"**, **“Introduction to Machine Learning with Python”**.
+- 🧠 My GitHub showcases a range of **Machine Learning**, **Deep Learning**, **Computer Vision** with **Python**, as well as projects in the form of **RStudio** files highlighting expereince with **R** along with several **Power BI** notebooks .
+
   
 - 📘 I’m expanding my knowledge through:
   * hands-on exercises and project from **"The Crash Course in Python"**
