@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on completing all coding exercises from the book Introduction to Machine Learning with Python.  
 
-- 🌱 I’m currently learning **Fat Chance on the Harvard edx and Introduction to Machine Learning with Python**
+- 🌱 I’m currently learning **Fat Chance on the Harvard edx and platform & Introduction to Machine Learning with Python**
 
 - 👨‍💻 All of my projects are available at [www.kaggle.com/laithsa111](www.kaggle.com/laithsa111)
 
