@@ -1,25 +1,64 @@
 <h1 align="center">Hi 👋, I'm Laith Saeed</h1>
-<h3 align="center">Data Scientist || Machine Learning ||  Burnaby, British Columbia </h3>
+<h3 align="center">Aspiring Data Analyst | Junior Data Scientist | UBC MDS Applicant | Burnaby, BC</h3>
 
-- 🔭 I’m currently working on completing all coding exercises from the book Introduction to Machine Learning with Python.  
+---
 
-- 🌱 I’m currently learning **Fat Chance on the Harvard edx and platform & Introduction to Machine Learning with Python**
+- 🎯 I’m focused on advancing my career in **Data Analytics** and **Data Science**, currently preparing for the **Microsoft PL-300: Power BI Data Analyst certification**.  
+- 🧠 My GitHub showcases a range of **Machine Learning**, **Deep Learning**, **Computer Vision** and **Power BI** notebooks — including regression, classification, and data visualization projects as well as hands-on project exercises from the textbooks : **"The Crash Course in Python"**, **“Introduction to Machine Learning with Python”**.
+  
+- 📘 I’m expanding my knowledge through:
+  * hands-on exercises and project from **"The Crash Course in Python"**
+  * hands-on exercises from **“Introduction to Machine Learning with Python”**
+  * completion of 111 projects across 4 skill tracks compelted on [Datawars.io](https://profiles.datawars.io/laithsaeed73)
 
-- 👨‍💻 All of my projects are available at [www.kaggle.com/laithsa111](www.kaggle.com/laithsa111)
+- 💡 I enjoy building **interactive dashboards**, **predictive models**, and exploring **data-driven decision-making** in both business and finance contexts.  
+- 👨‍💻 You can view my full portfolio and notebooks on [Kaggle](https://www.kaggle.com/laithsa111).  
+- 💬 Ask me about **Python (Pandas, Numpy, Scitkit-Learn, Matplotlib, Seaborn, TensorFlow) , R (RStudio), MySQL and Microsoft Power BI**.  
+- 📫 Reach me at **laithsaeed73@gmail.com**  
 
-- 💬 Ask me about **Python, MySQL, Scikit Learn**
-
-- 📫 How to reach me **laithsaeed73@gmail.com**
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/laithsaeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laithsaeed/" height="30" width="40" /></a>
-<a href="https://kaggle.com/laithsa111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="laithsa111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/laithnidal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laithnidal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laithsaeed/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/laithsa111" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/laithnidal" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laithnidal&show_icons=true&locale=en&layout=compact" alt="laithnidal" /></p>
+
