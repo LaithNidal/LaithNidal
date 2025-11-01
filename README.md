@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laith Saeed</h1>
-<h3 align="center">Data Scientist || Machine Learning ||  Jordan/Canada  </h3>
+<h3 align="center">Data Scientist || Machine Learning ||  Burnaby, British Columbia </h3>
 
-- 🔭 I’m currently working on [Diabetes predication model (Supervised & Hyperparameter Tuned)](https://github.com/LaithNidal/DiabetesML-Supervised-Classfication-)
+- 🔭 I’m currently working on completing all coding exercises from the book Introduction to Machine Learning with Python.  
 
-- 🌱 I’m currently learning **Unsupervised ML models and deploying ML models onto streamlit**
+- 🌱 I’m currently learning **Fat Chance on the Harvard edx and Introduction to Machine Learning with Python **
 
 - 👨‍💻 All of my projects are available at [www.kaggle.com/laithsa111](www.kaggle.com/laithsa111)
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **laithsaeed73@gmail.com**
 
-- ⚡ Fun fact **I look lighter than I weigh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
