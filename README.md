@@ -27,9 +27,13 @@
 <a href="https://kaggle.com/laithsa111" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
 </a>
+<a href="https://profiles.datawars.io/laithsaeed73" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="DataWars" height="30" width="40" />
+</a>
 <a href="https://www.leetcode.com/laithnidal" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
+  
 </p>
 
 ---
