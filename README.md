@@ -8,8 +8,7 @@
 
   
 - 📘 I’m expanding my knowledge through:
-  * hands-on exercises and project from **"The Crash Course in Python"**
-  * hands-on exercises from **“Introduction to Machine Learning with Python”**
+  * DataCamp Data Anlayst Course + Harvard Probability Course for Data Analysis.
   * completion of 111 projects across 4 skill tracks compelted on [Datawars.io](https://profiles.datawars.io/laithsaeed73)
 
 - 💡 I enjoy building **interactive dashboards**, **predictive models**, and exploring **data-driven decision-making** in both business and finance contexts.  
