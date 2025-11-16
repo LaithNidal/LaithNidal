@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laith Saeed</h1>
-<h3 align="center">Aspiring Data Analyst | Junior Data Scientist | UBC MDS Applicant | Burnaby, BC</h3>
+<h3 align="center">Aspiring Data Analyst / Junior Data Scientist | UBC MDS 2026 Candidate | Burnaby, BC</h3>
 
 ---
 
