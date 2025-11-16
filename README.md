@@ -3,15 +3,14 @@
 
 ---
 
-- 🎯 I’m focused on advancing my career in **Data Analytics** and **Data Science**, currently preparing for the **Microsoft PL-300: Power BI Data Analyst certification**.  
-- 🧠 My GitHub showcases a range of **Machine Learning**, **Deep Learning**, **Computer Vision** repos with **Python**, as well as projects in the form of **RStudio** files highlighting expereince with **R** along with several **Power BI** notebooks and dashboards.
+- 🎯 I’m focused on advancing my career in **Data Analytics** and **Data Science**.  
+- 🧠 My GitHub showcases a range of **Machine Learning**, and **Deep Learning** repos with **Python** along with several **Power BI** dashboards.
 
   
 - 📘 I’m expanding my knowledge through:
-  * DataCamp Data Anlayst Course + Harvard Probability Course for Data Analysis.
+  * DataCamp Data Anlayst Course (Power BI) + Harvard Probability Course for Data Analysis.
   * completion of 111 projects across 4 skill tracks compelted on [Datawars.io](https://profiles.datawars.io/laithsaeed73)
-
-- 💡 I enjoy building **interactive dashboards**, **predictive models**, and exploring **data-driven decision-making** in both business and finance contexts.  
+ 
 - 👨‍💻 You can view my full portfolio and notebooks on [Kaggle](https://www.kaggle.com/laithsa111).  
 - 💬 Ask me about **Python (Pandas, Numpy, Scitkit-Learn, Matplotlib, Seaborn, TensorFlow) , R (RStudio), MySQL and Microsoft Power BI**.  
 - 📫 Reach me at **laithsaeed73@gmail.com**  
