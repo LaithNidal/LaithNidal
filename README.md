@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Laith Saeed</h1>
-<h3 align="center">Aspiring Data Analyst / Junior Data Scientist | UBC MDS 2026 Candidate | Burnaby, BC</h3>
+<h3 align="center">UBC MDS Cohort 11 </h3>
 
 ---
 
 - 🎯 I’m focused on advancing my career in **Data Analytics** and **Data Science**.  
 - 🧠 My GitHub showcases a range of **Machine Learning**, and **Deep Learning** repos with **Python** along with several **Power BI** dashboards.
 
-  
-- 📘 I’m expanding my knowledge through:
-  * DataCamp Data Anlayst Course (Power BI) + Harvard Probability Course for Data Analysis.
-  * completion of 111 projects across 4 skill tracks compelted on [Datawars.io](https://profiles.datawars.io/laithsaeed73)
- 
-- 👨‍💻 You can view my full portfolio and notebooks on [Kaggle](https://www.kaggle.com/laithsa111).  
-- 💬 Ask me about **Python (Pandas, Numpy, Scitkit-Learn, Matplotlib, Seaborn, TensorFlow) , R (RStudio), MySQL and Microsoft Power BI**.  
-- 📫 Reach me at **laithsaeed73@gmail.com**  
 
 ---
 
