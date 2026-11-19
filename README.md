@@ -3,8 +3,8 @@
 
 ---
 
-- 🎯 I’m focused on advancing my career in **Data Analytics** and **Data Science**.  
-- 🧠 My GitHub showcases a range of **Machine Learning**, and **Deep Learning** repos with **Python** along with several **Power BI** dashboards.
+- 🎯 I’m focused on doing well in my courses as part of Cohort 11 of UBS's Masters of Data Science Program. 
+- 🧠 My GitHub showcases a range of **Machine Learning**, and **Deep Learning** repos with **Python**, **working on projects with R**.
 
 
 ---
